@@ -115,7 +115,7 @@ internal fun DiscordConversation.toEmbed(
                 Embed.Field(
                     "Ursache - Code",
                     "Ich konnte keinen Code finden, bitte schicke die komplette" +
-                            " Klasse, in der der Fehler auftritt (Am besten via hastebin)",
+                            " Klasse, in der der Fehler auftritt (Am besten via (hastebin)[https://pasta.with-rice.by.devs-from.asia/])",
                     false
                 )
             )
